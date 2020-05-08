@@ -16,6 +16,7 @@ When brought back online:
 
 Offline entries should be added to tracker.
 
+![image](https://user-images.githubusercontent.com/50763314/81457270-6d507280-9163-11ea-9a4a-92019da8630e.png)
 
 User Story
 AS AN avid traveller

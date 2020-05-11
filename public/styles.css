@@ -37,6 +37,7 @@ tr:nth-child(even) {
 .total {
   font-size: 150%;
   color: blue;
+  font-family: fantasy;
 }
 
 .form {
